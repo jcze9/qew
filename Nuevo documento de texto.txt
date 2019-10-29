@@ -1,0 +1,8 @@
+https://github.com/search?l=PHP&q=galeria+mvc&type=Repositories
+
+https://github.com/Lucasplpx/galeria_mvc/tree/master/views
+https://github.com/Lucasplpx/galeria_mvc/blob/master/index.php
+https://github.com/Lucasplpx/galeria_mvc/blob/master/models/fotos.php
+https://github.com/Lucasplpx/galeria_mvc/blob/master/controllers/homeController.php
+https://github.com/Lucasplpx/galeria_mvc/blob/master/views/home.php
+https://github.com/vitorhugosg/galeria-mvc/blob/master/galeria/views/home.php
